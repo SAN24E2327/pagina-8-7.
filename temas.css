@@ -1,10 +1,9 @@
 .contenedor{
 width: 100%;
-height: 1200px;
-background-color: aquamarine;
+height: 1px;
 }
 
-.ecabezado{
+.encabezado{
 
    width: 100%;
 height: 50px;
@@ -20,49 +19,46 @@ color: bisque;
 }
 .tecnología{
     width: 100%;
-height: 400px;
+height: 1000px;
 background-color: blueviolet;
 font-size: 25px;
 text-align: center;
-color: rgb(8, 12, 3);
-
-
+color: rgb(0, 0, 0);
 }
 
 
 .química{
 
 width: 100%;
-height: 600px;
+height: 1000px;
 background-color: rgb(180, 20, 154);
 font-size: 25px;
 text-align: center;
 color: hsl(0, 0%, 0%);
 }
-.biología{
+.biologia{
 width: 100%;
-height: 600px;
+height: 1000px;
 background-color: rgb(148, 182, 255);
 font-size: 25px;
 text-align: center;
-color: rgb(0, 0, 0)
+color: rgb(0, 0, 0);
 }
-.matemáticas{
+.matematicas{
 width: 100%;
-height: 4100px;
+height: 800px;
 background-color: rgb(255, 0, 106);
 font-size: 25px;
 text-align: center;
-color: rgb(27, 43, 43)
-
-
+color: rgb(0, 0, 0);
 }
-.inglés{
+.ingles{
 width: 100%;
 height: 100px;
 background-color: rgb(100, 30, 167);
 font-size: 25px;
-color: rgb(29, 4,4)
+text-align: center;
+color: rgb(29, 4,4);
 }
 
 
